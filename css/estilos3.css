@@ -1,0 +1,184 @@
+body {
+	background:url(fondo.jpg);
+	color: #000;
+	margin:auto;
+	position:relative;
+}
+
+.opciones{
+	background:#2E2E2E;
+	height:50px;
+	width:250px;
+	position:relative;
+	float:left;
+	left:30px;
+	top:30px;
+	padding:8px;
+	text-align:center;
+	font-family: sans-serif;
+	margin:auto;
+}
+
+
+nav ul{
+	list-style-type:none;
+}
+
+.opciones a{
+	text-decoration:none;
+	color:#fff;
+	padding:30px 30px;
+	margin:10px 20px 10px 0px
+}
+
+.opciones a.hover {
+	text-decoration:underline;
+
+}
+
+header a:hover {
+	text-decoration:underline;
+	background:#000;
+	box-shadow:0px 5px 0px #FFBF00;
+	font-size:25px;
+	color:#FFBF00
+}
+
+.loguito {
+	background:#fff;
+	box-shadow:0px 5px 0px #FFBF00;
+	float:left;
+	position:relative;
+	top:30px;
+	left:10px;
+	margin:auto;
+}
+
+.fb {
+	position: relative;
+	top: 100px;
+	left: 350px;
+}
+
+.fb:hover {
+	transform: scale(1.1);
+}
+
+.ig {
+	position: relative;
+	bottom:10px;
+	left: 750px;
+}
+
+.ig:hover {
+	transform: scale(1.1);
+}
+
+.gm {
+	position: relative;
+	left:350px;
+	bottom: 100px
+}
+
+.gm:hover {
+	transform: scale(1.1);
+}
+
+.fbt {
+	background: #FFBF00;
+	color: #000;
+	text-align:right;
+	box-shadow: 0px 5px 0px #2e2e2e;
+	font-family:sans-serif;
+	font-size: 30px;
+	text-decoration:none;
+	width:300px;
+	padding:10px 10px 10px 5px;
+	position: relative;
+	bottom:700px
+}
+
+.igt {
+	background: #FFBF00;
+	color: #000;
+	text-align:left;
+	box-shadow: 0px 5px 0px #2e2e2e;
+	font-family:sans-serif;
+	font-size: 30px;
+	text-decoration:none;
+	width:250px;
+	padding:10px 5px 10px 10px;
+	position: relative;
+	left:1084;
+	bottom:600
+}
+
+.gmt {
+	background: #FFBF00;
+	color: #000;
+	text-align:right;
+	box-shadow: 0px 5px 0px #2e2e2e;
+	font-family:sans-serif;
+	font-size: 30px;
+	text-decoration:none;
+	width:300px;
+	padding:10px 10px 10px 5px;
+	position: relative;
+	bottom: 480px
+}
+
+footer {
+	background: #000;
+	color:#fff;
+	text-align: center;
+	font-size: 40px;
+}
+h1 {
+	background:#2E2E2E;
+	color:#fff;
+	box-shadow: 0px 5px 0px #FFBF00;
+	font-size: 30px;
+	font-family: sans-serif;
+	padding: 10px;
+	text-align:center;
+	position: relative;
+	bottom: 350px
+}
+
+.phone {
+	background: #FFBF00;
+	color:#000;
+	box-shadow:0px 5px 0px #2e2e2e;
+	width: 400px;
+	font-family: sans-serif;
+	font-size: 25px;
+	position:relative;
+	text-align: right;
+	padding: 5px;
+	left:600px;
+	bottom:60px;
+}
+
+.bg {
+	position: relative;
+	left: 470px;
+	bottom:321px;
+}
+
+.bb {
+	position: relative;
+	left: 470;
+	bottom: 274px;
+}
+
+.be {
+	position: relative;
+	left: 470px;
+	bottom: 306px
+}
+
+.bf {
+	position: relative;
+	left: 470px;
+	bottom: 290px
+}
